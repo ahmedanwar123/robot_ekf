@@ -23,7 +23,6 @@ The `robot_ekf` package includes:
 
    ```
    pip3 install numpy scipy rospy
-
 2.**Clone the Repository**
 
 Clone this repository to your ROS workspace:
