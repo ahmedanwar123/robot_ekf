@@ -28,12 +28,21 @@ The `robot_ekf` package includes:
 
 Clone this repository to your ROS workspace:
 
-```cd ~/catkin_ws/src```
-```git clone https://github.com/yourusername/ekf_pose_estimation.git```
+```
+cd ~/catkin_ws/src
+```
+
+```
+git clone https://github.com/yourusername/ekf_pose_estimation.git
+```
 3.**Build the Package**
 Build the package in your catkin workspace:
-```cd ~/catkin_ws```
-```catkin_make```
+```
+cd ~/catkin_ws
+```
+```
+catkin_make
+```
 4.**Source the Workspace**
 Source the setup file to make the package available:
 ```source devel/setup.bash```
