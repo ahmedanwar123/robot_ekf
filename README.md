@@ -22,7 +22,7 @@ The `robot_ekf` package includes:
    Install the required Python packages:
 
    ```
-   pip3 install numpy scipy rospy ```
+   pip3 install numpy scipy rospy
 
 2.**Clone the Repository**
 
