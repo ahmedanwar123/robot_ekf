@@ -6,8 +6,9 @@ This ROS package implements an Extended Kalman Filter (EKF) to estimate the pose
 
 The `robot_ekf` package includes:
 
-- **KalmanClass**: Implements the Extended Kalman Filter for state estimation.
-- **Caller**: Manages sensor data subscriptions, performs EKF updates, and publishes the estimated pose.
+- **KalmanFilter**: Class Implements the Extended Kalman Filter for state estimation.
+- **SesnorData**: Class Manages sensor data subscriptions, performs EKF updates, and publishes the estimated pose.
+- **CovarianceGUI**: Graphical User Interface updates covariance values live.
 
 ## Features
 
