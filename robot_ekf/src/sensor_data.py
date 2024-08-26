@@ -1,5 +1,3 @@
-# sensor_data.py
-
 import rospy
 from geometry_msgs.msg import Pose2D
 from sensor_msgs.msg import Imu

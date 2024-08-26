@@ -1,5 +1,3 @@
-# kalman_filter.py
-
 import numpy as np
 import rospy
 from scipy.linalg import block_diag

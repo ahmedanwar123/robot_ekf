@@ -1,5 +1,3 @@
-# main.py
-
 import rospy
 from sensor_data import SensorData
 from kalman_filter import KalmanFilter
