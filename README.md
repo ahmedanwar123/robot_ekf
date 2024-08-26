@@ -29,14 +29,18 @@ The `robot_ekf` package includes:
    sudo apt install numpy scipy
    ```
 
+2.** Create A package**
+   ```bash
+   catkin_vreate_pkg robot_ekf geometry_msgs nav_msgs rospy sensor_msgs std_msgs
+   ```
 3. **Clone the Repository**
 
    Clone this repository to your ROS workspace:
    ```bash
-   cd ~/catkin_ws/src
+   cd ~/catkin_ws/src/robot_ekf
    git clone https://github.com/ahmedanwar123/robot_ekf.git
    ```
-
+      *note*: you will ned **/src** directory only
 4. **Build the Package**
 
    Build the package in your catkin workspace:
