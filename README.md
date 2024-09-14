@@ -29,7 +29,7 @@ The `robot_ekf` package includes:
    sudo apt install numpy scipy
    ```
 
-2.** Create A package**
+2. ** Create A package**
    ```bash
    catkin_vreate_pkg robot_ekf geometry_msgs nav_msgs rospy sensor_msgs std_msgs
    ```
