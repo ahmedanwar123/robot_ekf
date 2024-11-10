@@ -31,7 +31,7 @@ The `robot_ekf` package includes:
 
 2. **Create A package**
    ```bash
-   catkin_vreate_pkg robot_ekf geometry_msgs nav_msgs rospy sensor_msgs std_msgs
+   catkin_create_pkg robot_ekf geometry_msgs nav_msgs rospy sensor_msgs std_msgs
    ```
 3. **Clone the Repository**
 
