@@ -118,3 +118,6 @@ geometry_msgs/TwistWithCovariance twist
 - **Pose2D:** Used for publishing the combined pose estimated by the Kalman filter.
 - **Imu:** Subscribed to get IMU data (orientation and angular velocity).
 - **Odometry:** Subscribed to get odometry data (position, orientation, and velocity).
+
+### License
+[MIT](https://choosealicense.com/licenses/mit/)
