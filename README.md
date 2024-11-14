@@ -120,4 +120,4 @@ geometry_msgs/TwistWithCovariance twist
 - **Odometry:** Subscribed to get odometry data (position, orientation, and velocity).
 
 ### License
-[MIT](https://choosealicense.com/licenses/mit/)
+[CC]([https://choosealicense.com/licenses/mit/](https://creativecommons.org/licenses/by-nc/4.0/legalcode))
